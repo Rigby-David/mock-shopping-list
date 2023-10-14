@@ -1,0 +1,10 @@
+.shopping-list {
+  /* height: 200px; */
+  /* width: 200px; */
+  border: 1px solid black;
+}
+
+.item {
+  border: 1px solid black;
+  background-color: cyan;
+}
